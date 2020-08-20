@@ -7,7 +7,7 @@ A Self-Driving Car, also known as an autonomous vehicle (AV), connected and auto
 The link to dataset is [here](https://drive.google.com/file/d/1PZWa6H0i1PCH9zuYcIh5Ouk_p-9Gh58B/view?usp=sharing). The dataset contains around 64k images and corresponding steering angles.
 
 ## About the Model
-
+Read about my Model in [Detail](https://github.com/Kushagraw12/Self-Driving-Car/blob/master/About.md)
 
 
 ## Sample Video

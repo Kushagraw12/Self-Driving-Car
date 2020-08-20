@@ -6,7 +6,7 @@ A Self-Driving Car, also known as an autonomous vehicle (AV), connected and auto
 
 ## My Experience
 
-The problem seems to be quite complex, and that is truth as well. This project focuses only on predicting the steering angle for the car. We will be feeding sequences of images from dashcam and this model will predict the steering angle in degrees.
+The problem seems to be quite complex. Well, that is the truth. This project focuses only on predicting the steering angle for the car. We will be feeding sequences of images from dashcam and this model will predict the steering angle in degrees.
 
 ## Dataset
 

@@ -23,9 +23,10 @@ The loss is the mean overseen data of the absolute differences between true and 
 
 Formula: 
 
-![Formula][formula]
- [formula]: ()
- 
+![alt text][formula]
+
+[formula]: https://github.com/Kushagraw12/Self-Driving-Car/blob/master/mae-formula.png "Formula"
+
  # Training
  
  I trained my model on google colab. This is the most critical part. One needs to be very patient while training one's model. It took me around 6-7 hours of training while I was trying for different hyper_parameters. 

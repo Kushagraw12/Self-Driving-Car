@@ -8,6 +8,8 @@ A Self-Driving Car, also known as an autonomous vehicle (AV), connected and auto
 
 The problem seems to be quite complex. Well, that is the truth. This project focuses only on predicting the steering angle for the car. We will be feeding sequences of images from dashcam and this model will predict the steering angle in degrees.
 
+Read more about my experience [here](https://medium.com/@kush12092001/my-experience-with-building-a-self-driving-car-b862f9123053)!
+
 ## Dataset
 
 The link to dataset is [here](https://drive.google.com/file/d/1PZWa6H0i1PCH9zuYcIh5Ouk_p-9Gh58B/view?usp=sharing). The dataset contains around 64k images and corresponding steering angles.
@@ -22,10 +24,10 @@ Read about my Model in [Detail](https://github.com/Kushagraw12/Self-Driving-Car/
 
 
 ## Sample Video
+
+ ![alt text][gif]
  
-![alt text][gif]
- 
-[gif]: https://github.com/Kushagraw12/Self-Driving-Car/blob/master/Recording-gif.gif "GIF"
+ [gif]: https://github.com/Kushagraw12/Self-Driving-Car/blob/master/Recording-gif.gif "GIF"
 
 
 *The visualization is strictly on Test Data
